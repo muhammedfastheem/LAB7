@@ -1,7 +1,7 @@
 //include input output library
+//including library
 #include<iostream>
 #include<cmath>
-//include standard library
 using namespace std;
 	int pallindrom(int,int);
 	int reverse(int,int);
